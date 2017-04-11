@@ -401,7 +401,7 @@ body{
   }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 520px){
 
   .burgerButton{
     width: 40px;
